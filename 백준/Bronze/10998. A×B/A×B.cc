@@ -1,10 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    
-    int num1, num2;
-    cin >> num1 >> num2;
-    cout << num1 * num2 << endl;
+int main(){
+    int A,B;
+    cin >> A >> B;
+    cout << A * B << endl;
     return 0;
 }
